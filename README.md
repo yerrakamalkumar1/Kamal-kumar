@@ -7,6 +7,8 @@ Email: [yerrakamalkumar1@gmail.com](mailto:yerrakamalkumar1@gmail.com)
 GitHub: [github.com/yerrakamalkumar1](https://github.com/yerrakamalkumar1)  
 LinkedIn: [linkedin.com/in/kamal-kumar-yerra](https://linkedin.com/in/kamal-kumar-yerra)
 
+Resume: [Download PDF](./Yerra_Kamal_Kumar_Resume.pdf)
+
 ## About Me
 
 I am an AI and Software Engineering enthusiast with hands-on experience in Machine Learning, Generative AI, NLP, and Full Stack Development. I enjoy building practical AI-powered applications, full-stack platforms, and data-driven systems that solve real problems.
@@ -121,3 +123,4 @@ I am open to AI/ML, Full Stack, and Product Engineering opportunities.
 - Email: [yerrakamalkumar1@gmail.com](mailto:yerrakamalkumar1@gmail.com)
 - GitHub: [github.com/yerrakamalkumar1](https://github.com/yerrakamalkumar1)
 - LinkedIn: [linkedin.com/in/kamal-kumar-yerra](https://linkedin.com/in/kamal-kumar-yerra)
+- Resume: [Yerra Kamal Kumar Resume](./Yerra_Kamal_Kumar_Resume.pdf)
